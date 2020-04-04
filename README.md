@@ -1,6 +1,7 @@
 # Pharmacy-Management
 Project as part of training.A simple web application for Pharmacy Management.This application is developed for a pharmacy manager
 where he is able to create new pharmacy products, view available stock and update/delete/retrieve the details. It also has a search module where the manager can search the medicines's names.
+
 Software Requirements:
 Java 1.8+,Tomcat Server 7.0 or above,MySQL Database 5.0 or above,Eclipse IDE/STS 2018-19,Maven 3.0 or above,Junit 4.
 
