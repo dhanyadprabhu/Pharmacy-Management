@@ -1,0 +1,17 @@
+body {
+  
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  margin:0;
+     padding:0;
+}
+header{
+
+ margin:0;
+     padding:20px;
+          font-size:30px;
+           background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;}
+ 
